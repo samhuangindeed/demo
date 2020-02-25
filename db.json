@@ -1,44 +1,7 @@
-{ "validity": {
-    "isValid":true
-  },
-  "singleThreadDiscussion": {
-    "docoId": "AAAAJJU2d3Y",
-    "discussionLink": "https://docs.google.com/a/indeed.com/document/d/1rlH2hFrw60MRLKhhU7Y6-5lmMw9bIkeH74iyHTVvlF4/edit?disco=AAAAJJU2d3Y&usp=todo_email_discussion&usp_dm=true&ts=5e545af9",
-    "isTodo": true,
-    "canReply": true,
-    "canResolve": true,
-    "isDeleted": false,
-    "htmlQuote": "<p style=\"margin:0\" dir=\"ltr\"><span>single-use and time limited to 3 days. Even if they didn't get stuck at this step, the use case doesn't fit magic links.</span></p><br><p style=\"margin:0\" dir=\"ltr\"><span>How are we generating the tokens</span><span class=\"screenreader-hidden-offscreen\">Comment start</span><span style=\"background-color:#ffe168\">?</span><span class=\"screenreader-hidden-offscreen\">Comment end</span></p><p style=\"margin:0\" dir=\"ltr\"><span> </span><span>See </span><a href=\"https://docs.google.com/a/indeed.com/document/d/1rlH2hFrw60MRLKhhU7Y6-5lmMw9bIkeH74iyHTVvlF4/edit#heading=h.i3r8n3bqw5zx\"><span>Access Token Generation</span></a><span>.</span></p><br><p style=\"margin:0\" dir=\"ltr\"><span>Why create a new API/Proxy (Profile Growth AMP API) instead of adding a new endpoint to Profile API?</span></p><p style=\"margin:0\" dir=\"ltr\"><span> </span><span>We heavily considered</span></p>",
-    "posts": [
-      {
-        "authorName": "Samantha Huang",
-        "authorPhotoUrl": "https://lh3.googleusercontent.com/a-/AAuE7mDSLHE_9jZ4qWSz1qMlmiJqedoM-LmTZ9azrMb8=s96-k-no",
-        "creationTime": "Feb 24, 2020, 11:11:45 PM UTC",
-        "htmlBody": "test +<a href=\"mailto:jinhou@indeed.com\" target=\"_blank\">jinhou@indeed.com</a>",
-        "isNew": false,
-        "isHeadPost": true,
-        "htmlActionText": "Assigned to Jin Hou"
-      },
-      {
-        "authorName": "Jin Hou",
-        "authorPhotoUrl": "https://ssl.gstatic.com/s2/profiles/images/silhouette96.png",
-        "creationTime": "Feb 24, 2020, 11:13:35 PM UTC",
-        "htmlBody": "Got it",
-        "isNew": true,
-        "isHeadPost": false
-      },
-      {
-        "authorName": "Samantha Huang",
-        "authorPhotoUrl": "https://lh3.googleusercontent.com/a-/AAuE7mDSLHE_9jZ4qWSz1qMlmiJqedoM-LmTZ9azrMb8=s96-k-no",
-        "creationTime": "Feb 24, 2020, 11:39:37 PM UTC",
-        "htmlBody": "test2",
-        "isNew": true,
-        "isHeadPost": false
-      }
-    ]
-  },
-  "requestor": {
-    "name": "Samantha Huang",
-    "photoUrl": "https://lh3.googleusercontent.com/a-/AAuE7mDSLHE_9jZ4qWSz1qMlmiJqedoM-LmTZ9azrMb8=s96-k-no"
-  }
+{
+ "items": [
+   {
+     "isValid":true
+   }
+ ]
 }
